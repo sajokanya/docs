@@ -7,8 +7,7 @@
     "light": "#00ade6",
     "dark": "#00ade6"
   },
-  "favicon": "favicon.svg",
-  "logo": "activeviam-logo.svg",
+  "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
@@ -90,8 +89,9 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/activeviam-logo.svg",
+    "dark": "/activeviam-logo.svg",
+    "href": "https://activeviam.com"
   },
   "navbar": {
     "links": [
