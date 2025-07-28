@@ -3,9 +3,9 @@
   "theme": "willow",
   "name": "Sample Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#291a40",
+    "light": "#00ade6",
+    "dark": "#00ade6"
   },
   "favicon": "/favicon.svg",
   "navigation": {
