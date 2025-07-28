@@ -7,8 +7,8 @@
     "light": "#00ade6",
     "dark": "#00ade6"
   },
-  "favicon": "/favicon.svg",
-  "logo": "/activeviam-logo.svg",
+  "favicon": "favicon.svg",
+  "logo": "activeviam-logo.svg",
   "navigation": {
     "tabs": [
       {
