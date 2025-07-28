@@ -3,11 +3,11 @@
   "theme": "willow",
   "name": "Sample Documentation",
   "colors": {
-    "primary": "#291a40",
-    "light": "#00ade6",
-    "dark": "#00ade6"
+    "primary": "#16A34A",
+    "light": "#07C983",
+    "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://docs.activeviam.com/images/activeviam-logo-v2.svg",
   "navigation": {
     "tabs": [
       {
