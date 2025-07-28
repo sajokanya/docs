@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mint Starter Kit",
+  "theme": "willow",
+  "name": "Sample Documentation",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -94,6 +94,10 @@
   },
   "navbar": {
     "links": [
+      {
+        "label": "News & blog",
+        "href": "https://www.activeviam.com/news-and-blog/"
+      },
       {
         "label": "Support",
         "href": "mailto:hi@mintlify.com"
