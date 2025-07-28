@@ -1,13 +1,14 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "mint",
   "name": "Sample Documentation",
   "colors": {
     "primary": "#291a40",
     "light": "#00ade6",
     "dark": "#00ade6"
   },
-  "favicon": "https://docs.activeviam.com/images/activeviam-logo-v2.svg",
+  "favicon": "https://www.activeviam.com/wp-content/uploads/2024/06/64x64px_Activeviam_favicon.svg",
+  "logo": "https://docs.activeviam.com/images/activeviam-logo-v2.svg"
   "navigation": {
     "tabs": [
       {
